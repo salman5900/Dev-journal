@@ -16,9 +16,9 @@ So yeah... if this journal feels a little Stark-inspired, that’s because it is
 
 ---
 
-## 🛠️ My Dev Roadmap (The Stark Industries Blueprint)
+## 🛠️ My Dev Roadmap 
 
-To guide my journey, I built a personal roadmap — my own version of the Iron Man armor upgrade plan:
+To guide my journey, I built a personal roadmap:
 
 1. **Python** ✅  
 2. **Django** ✅ *(Just got into it — and loving it!)*  
@@ -36,7 +36,7 @@ Every step is a new armor piece. ⚙️🧑‍💻
 
 ## 🧪 First Builds (My Garage Experiments)
 
-Before diving into Django, I built a few simple apps with basic frontend skills:
+Before diving into Django, I built a few simple apps with basic frontend skills and Django Basics:
 
 - 📝 **Blog App** – My first Django CRUD blog.  
 - 🔖 **Bookmark Manager** – Save and organize links.  
