@@ -36,7 +36,7 @@ Every step is a new armor piece. ⚙️🧑‍💻
 
 ## 🧪 First Builds (My Garage Experiments)
 
-Before diving into Django, I built a few simple apps with basic frontend skills and Django Basics:
+After just learning the basics of Django, I built a few simple apps with basic frontend skills and Django Basics:
 
 - 📝 **Blog App** – My first Django CRUD blog.  
 - 🔖 **Bookmark Manager** – Save and organize links.  
@@ -59,6 +59,7 @@ It includes:
 - ⚡ Live Notifications  
 
 MARK1 is my **first real suit**. Like Tony Stark in that cave — it’s not perfect, but it’s a serious step forward. This one’s **built to fly**. 🛫
+FYI: Uses only `Django` ,`Django Template System`, `Html` and `CSS` and little `Bootstrap`
 
 ---
 
